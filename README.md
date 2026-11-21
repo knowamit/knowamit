@@ -6,7 +6,7 @@ I build and run consumer platforms end to end: architecture, infrastructure, rea
 
 ## What I do
 
-- **Lead engineering at Nojoto,** a vernacular creator and storytelling network for India, from first version to a production platform.
+- **Co-founded Nojoto and built its platform** as it grew from an early startup into a high-scale media ecosystem for India's vernacular creators. I own architecture, infrastructure, reliability and cost.
 - **Design systems under real constraints:** media delivery, real-time voice and telephony, recurring payments (UPI AutoPay), and the cloud bill behind all of it.
 - **Ship applied AI in products:** voice and speech synthesis pipelines, on-device content moderation, and AI workflow automation.
 
