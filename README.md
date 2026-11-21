@@ -1,6 +1,6 @@
-# Amit Kumar
+# Co-Founder & CTO at [Nojoto](https://nojoto.com)
 
-**Co-founder & CTO at [Nojoto](https://nojoto.com). Building AI for consumer tech.**
+**Amit Kumar. Building AI for consumer tech.**
 
 I build and run consumer platforms end to end: architecture, infrastructure, real-time media, payments, and the unit economics that keep them alive. I treat engineering as an optimization problem where latency, cost and reliability decide what ships.
 
