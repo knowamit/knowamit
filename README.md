@@ -6,7 +6,7 @@ I build and run consumer platforms end to end: architecture, infrastructure, rea
 
 ## What I do
 
-- **Co-founded Nojoto and built its platform** as it grew from an early startup into a high-scale media ecosystem for India's vernacular creators. I own architecture, infrastructure, reliability and cost.
+- **Lead technology at [Nojoto](https://nojoto.com),** a vernacular creator and storytelling network for India. Head of Technology from 2017 to March 2025, CTO and co-founder since April 2025. I lead architecture, infrastructure and the engineering team.
 - **Design systems under real constraints:** media delivery, real-time voice and telephony, recurring payments (UPI AutoPay), and the cloud bill behind all of it.
 - **Ship applied AI in products:** voice and speech synthesis pipelines, on-device content moderation, and AI workflow automation.
 
